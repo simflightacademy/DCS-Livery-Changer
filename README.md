@@ -29,10 +29,6 @@ A big update with a brand-new window.
 - The program is not signed: on first start Windows may say "Windows protected your PC" → More info → Run anyway.
 - Every changed mission is backed up first (`_livery_backup`) and can be restored from the program.
 
-## Download
-> **New: version 1.2** – new window, real squadron tail numbers, AI wingmen, Excel export.
-> [Download 1.2](https://github.com/simflightacademy/DCS-Livery-Changer/releases/latest)
-> 
 Get **DCS Livery Changer** from the [**Releases**](../../releases/latest) page: download the zip, unzip it and run
 `DCS Livery Changer.exe`. No installation needed. Windows 10 or 11.
 
