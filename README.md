@@ -8,12 +8,31 @@ skins don't match the region? DCS Livery Changer fixes that in a few clicks, wit
 
 ![Main window](DCS-Livery-Changer-1.2-screenshot.png
 )
+## DCS Livery Changer 1.2
+
+A big update with a brand-new window.
+
+### New
+- **New modern window** – menu on the left, tabs (Aircraft / New look / Log), info cards and an easy-to-read aircraft list.
+- **New look tab** – country, livery and tail number for the selected aircraft. A **pencil on every row** changes just that one aircraft.
+- **Real squadron tail numbers** – 800+ real numbers for 28 DCS aircraft (F-16C, F-15C/E, F-4E, F/A-18C, AV-8B, Mirage 2000C, MiG-29, Su-27, Su-25, F-5E, JF-17 and more), collected from public sources. Add your own numbers too.
+- **AI wingmen** – the AI aircraft flying in your flight get the same livery and the next tail numbers, so the whole formation matches.
+- **Liveries grouped by country** – "Made for Israel", "For any country"… Also reads the zipped liveries that come with DCS.
+- **Export to Excel** – a formatted .xlsx of the aircraft list (CSV still available).
+
+### Fixed
+- F-86F (FC), MiG-15bis (FC), F-5E (FC), A-10C II and the MiG-29 Fulcrum module showed no liveries.
+- Liveries that come with DCS as .zip files were all shown as "for all countries".
+
+### Good to know
+- Needs Windows 10/11. If the new window cannot start on a PC, the program opens its classic window with the same features.
+- The program is not signed: on first start Windows may say "Windows protected your PC" → More info → Run anyway.
+- Every changed mission is backed up first (`_livery_backup`) and can be restored from the program.
 
 ## Download
-
-> **New: 1.2 Beta** – new window, real squadron tail numbers, AI wingmen, Excel export.
-> [Download the beta](https://github.com/simflightacademy/DCS-Livery-Changer/releases/tag/v1.2-beta) · Stable version: 1.0
-
+> **New: version 1.2** – new window, real squadron tail numbers, AI wingmen, Excel export.
+> [Download 1.2](https://github.com/simflightacademy/DCS-Livery-Changer/releases/latest)
+> 
 Get **DCS Livery Changer** from the [**Releases**](../../releases/latest) page: download the zip, unzip it and run
 `DCS Livery Changer.exe`. No installation needed. Windows 10 or 11.
 
