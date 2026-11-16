@@ -10,6 +10,9 @@ skins don't match the region? DCS Livery Changer fixes that in a few clicks, wit
 
 ## Download
 
+> **New: 1.2 Beta** – new window, real squadron tail numbers, AI wingmen, Excel export.
+> [Download the beta](https://github.com/simflightacademy/DCS-Livery-Changer/releases/tag/v1.2-beta) · Stable version: 1.0
+
 Get **DCS Livery Changer** from the [**Releases**](../../releases/latest) page: download the zip, unzip it and run
 `DCS Livery Changer.exe`. No installation needed. Windows 10 or 11.
 
