@@ -6,7 +6,8 @@ How many times have you downloaded a great DCS mission or campaign and wished yo
 markings or your favourite squadron skin? How many times have you joined a multiplayer server and found that the
 skins don't match the region? DCS Livery Changer fixes that in a few clicks, without the Mission Editor.
 
-![Main window](screenshot.png)
+![Main window](DCS-Livery-Changer-1.2-screenshot.png
+)
 
 ## Download
 
